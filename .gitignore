@@ -1,0 +1,19 @@
+# 1. Python 的缓存垃圾（必选）
+__pycache__/
+*.pyc
+*.pyo
+
+# 2. IDE 的个人配置（必选，不然别人拉下来全是报错）
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 3. 操作系统产生的垃圾文件
+.DS_Store
+Thumbs.db
+
+# 4. 虚拟环境文件夹（如果有的话，体积巨大且无用）
+venv/
+env/
+.venv/
