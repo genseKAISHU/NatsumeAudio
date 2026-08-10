@@ -48,7 +48,7 @@ NatsumeAudio/
 ### 安装步骤
 ```bash
 # 1. 克隆项目
-git clone https://gitee.com/yourname/NatsumeAudio.git
+git clone https://github.com/yourname/NatsumeAudio.git
 
 # 2. 进入项目目录
 cd NatsumeAudio
